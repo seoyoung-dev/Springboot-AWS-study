@@ -1,6 +1,5 @@
 package springboot.practice.web;
 
-import static org.assertj.core.api.Assertions.as;
 import static org.assertj.core.api.Assertions.assertThat;
 
 import java.util.List;
